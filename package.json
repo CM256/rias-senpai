@@ -1,0 +1,19 @@
+{
+  "name": "Rias-Senpai",
+  "version": "0.0.1-a",
+  "description": "Some slutty bot",
+  "main": "bot.js",
+  "author": "YourMom",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
